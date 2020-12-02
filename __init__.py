@@ -2,7 +2,7 @@ import os
 import json
 from time import time
 from threading import Lock
-from dataStoreExceptions import *
+from .dataStoreExceptions import *
 
 
 # Freshworks – Backend Assignment
